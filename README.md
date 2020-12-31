@@ -6,7 +6,7 @@ A bash script which converts DiscoTope result into UCSF Chimera Attributes
 Unix-like OS environment is preferred. For Windows OS users, Ubuntu virtual machine or Cygwin can be used (**only tested on Ubuntu**).
 
 ### DiscoTope2ChimeraAttr
-Converts DiscoTope v2.0 output file (suffix=".txt") into Chimera Attributes (suffix=".txt").
+Converts DiscoTope v2.0 output file (suffix=".txt") into Chimera Attributes (suffix=".txt", name of attribute: "CustomAttribute").
 
 #### DiscoTope v2.0
 DiscoTope v2.0 is a discontinuous B-cell Epitope Prediction tool from protein 3D structures (Input: PDB structure files for macromolecules). <br />
